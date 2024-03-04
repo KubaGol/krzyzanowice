@@ -2,3 +2,11 @@ body {
  background : #333333;
  margin : 20px;
 }
+a:active {color: blue;}
+a:link {color: black;}
+a:visited {color:black;}
+a:hover {color:red; text-decoration: underline;}
+p {
+ color: pink;
+ text-align: justify;
+}
