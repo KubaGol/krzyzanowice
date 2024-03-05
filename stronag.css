@@ -14,7 +14,5 @@ h1 {
  color: yellow;
  text-decoration: underline;
 }
-a:active {color: yellow;}
-a:link {color: green;}
 a:visited {color:pink;}
 a:hover {color:red; text-decoration: underline;}
