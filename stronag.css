@@ -15,4 +15,6 @@ h2 {
 }
 h1 {
  text-align: right;
+ color: yellow;
+ text-decoration: underline;
 }
