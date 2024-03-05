@@ -15,4 +15,4 @@ h1 {
  text-decoration: overline;
 }
 a:visited {color:pink;}
-a:hover {color:red; text-decoration: line-trough;}
+a:hover {color:red; text-decoration: line-through;}
