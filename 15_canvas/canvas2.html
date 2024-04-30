@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>canvas2</title>
+<script>
+window.onload=function(){
+var canvas=document.getElementById("paper"),
+c=canvas.getContext("2d");
+c.fillStyle="black";
+c. fillRect(0, 0, canvas.width, canvas.height);
+c.fillStyle="red";
+c. fillRect(20, 20, 50, 50);
+c.strokeStyle="white";
+c.lineWidth=10;
+c.strokeRect(20,20,50,50);
+} ;
+</script>
+</head>
+<body>
+<canvas id="paper" width="500" height="500">
+</canvas>
+</body>
+</html>
