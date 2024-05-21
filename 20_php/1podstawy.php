@@ -1,16 +1,11 @@
-<!doctype html>
-<html lang="pl">
+<html>
 <head>
-<meta charset="utf-8">
-<title>podstawa</title>
-	<meta name="description" content="oto moja pierwsza strona na zajęciach">
-	<meta name="keywords" content="szkoła, lekcje, temat, nauka, html">	
-	<meta name="author" content="Jakub Gołąbek">
+<title>mój pierwszy skrypt php</title>
 </head>
 <body>
-
-
-	
-	
+<?php
+// Skrypt ten wypisze tekst, uŻywając funkcji "print"
+print("PHP");
+?>
 </body>
 </html>
